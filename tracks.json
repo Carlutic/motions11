@@ -1,0 +1,862 @@
+[
+  {
+    "name": "Bass Knight - Model motion",
+    "group": "Random",
+    "modelMotionFile": "random/r1_bass_knight_motion_by_/main.vmd",
+    "camMotionFile": "random/r1_bass_knight_motion_by_/camera.vmd",
+    "audioPlayerFile": "random/r1_bass_knight_motion_by_/audio.wav"
+  },
+  {
+    "name": "Final Rave",
+    "group": "Random",
+    "modelMotionFile": "random/r1_final_rave_motion/main.vmd",
+    "camMotionFile": "random/r1_final_rave_motion/camera.vmd"
+  },
+  {
+    "name": "Lean On",
+    "group": "Random",
+    "modelMotionFile": "random/r1_lean_on_feat_motion/main.vmd",
+    "camMotionFile": "random/r1_lean_on_feat_motion/camera.vmd"
+  },
+  {
+    "name": "Psy Gentleman",
+    "group": "Random",
+    "modelMotionFile": "random/r1_psy_gentleman_instrume/main.vmd",
+    "camMotionFile": "random/r1_psy_gentleman_instrume/camera.vmd",
+    "audioPlayerFile": "random/r1_psy_gentleman_instrume/audio.wav"
+  },
+  {
+    "name": "Sexy Dynamite",
+    "group": "Random",
+    "modelMotionFile": "random/r1_sexy_dinamite_motion_1/main.vmd",
+    "camMotionFile": "random/r1_sexy_dinamite_motion_1/camera.vmd",
+    "audioPlayerFile": "random/r1_sexy_dinamite_motion_1/audio.wav"
+  },
+  {
+    "name": "Sexy Dynamite (2 Model + 3 Model Revers)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_sexy_dinamite_motion_2/main.vmd",
+    "partnerMotionFile": "random/r1_sexy_dinamite_motion_2/partner.vmd",
+    "camMotionFile": "random/r1_sexy_dinamite_motion_2/camera.vmd",
+    "audioPlayerFile": "random/r1_sexy_dinamite_motion_2/audio.wav"
+  },
+  {
+    "name": "GHOST DANCEプチ改変 ver.1 (KAEDE + KANADE)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_ghost_danc/main.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_ghost_danc/partner.vmd",
+    "camMotionFile": "random/r1_ghost_dance_ghost_danc/camera.vmd"
+  },
+  {
+    "name": "GHOST DANCEプチ改変 ver.1 (MIKA + RIN)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_ghost_danc/main_2.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_ghost_danc/partner_2.vmd",
+    "camMotionFile": "random/r1_ghost_dance_ghost_danc/camera.vmd"
+  },
+  {
+    "name": "GHOST DANCEプチ改変 ver.2 (FUMIKA + man1)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_ghost_danc/main_2_3.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_ghost_danc/partner_2_3.vmd",
+    "camMotionFile": "random/r1_ghost_dance_ghost_danc/camera_2.vmd"
+  },
+  {
+    "name": "GHOST DANCEプチ改変 ver.2 (KAEDE + man2)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_ghost_danc/main_2_3_4.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_ghost_danc/partner_2_3_4.vmd",
+    "camMotionFile": "random/r1_ghost_dance_ghost_danc/camera_2.vmd"
+  },
+  {
+    "name": "GHOST DANCEプチ改変 ver.2 (KANADE + man3)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_ghost_danc/main_2_3_4_5.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_ghost_danc/partner_2_3_4_5.vmd",
+    "camMotionFile": "random/r1_ghost_dance_ghost_danc/camera_2.vmd"
+  },
+  {
+    "name": "GHOST DANCEプチ改変 ver.2 (RANKO + man4)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_ghost_danc/main_2_3_4_5_6.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_ghost_danc/partner_2_3_4_5_6.vmd",
+    "camMotionFile": "random/r1_ghost_dance_ghost_danc/camera_2.vmd"
+  },
+  {
+    "name": "ghost dance (girl1 + girl2)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_nueva_carp/main.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_nueva_carp/partner.vmd"
+  },
+  {
+    "name": "ghost dance (girl3 + girl4)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance_nueva_carp/main_2.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance_nueva_carp/partner_2.vmd"
+  },
+  {
+    "name": "ghost dance (left + right)",
+    "group": "Random",
+    "modelMotionFile": "random/r1_ghost_dance/main.vmd",
+    "partnerMotionFile": "random/r1_ghost_dance/partner.vmd",
+    "camMotionFile": "random/r1_ghost_dance/camera.vmd"
+  },
+  {
+    "name": "AnalBJShimakase",
+    "group": "Random",
+    "modelMotionFile": "random/r2_analbjshimakase/main.vmd",
+    "partnerMotionFile": "random/r2_analbjshimakase/partner.vmd",
+    "camMotionFile": "random/r2_analbjshimakase/camera.vmd",
+    "expressionMotionFile": "random/r2_analbjshimakase/expression.vmd",
+    "audioPlayerFile": "random/r2_analbjshimakase/audio.wav"
+  },
+  {
+    "name": "AnalBrunchesC1_1",
+    "group": "Random",
+    "modelMotionFile": "random/r2_analbrunchesc1_1/main.vmd",
+    "partnerMotionFile": "random/r2_analbrunchesc1_1/partner.vmd",
+    "camMotionFile": "random/r2_analbrunchesc1_1/camera.vmd"
+  },
+  {
+    "name": "Back Thrusting",
+    "group": "Random",
+    "modelMotionFile": "random/r2_back_thrusting/main.vmd",
+    "partnerMotionFile": "random/r2_back_thrusting/partner.vmd",
+    "audioPlayerFile": "random/r2_back_thrusting/audio.wav"
+  },
+  {
+    "name": "House Work",
+    "group": "Random",
+    "modelMotionFile": "random/r2_house_work/main.vmd",
+    "partnerMotionFile": "random/r2_house_work/partner.vmd",
+    "camMotionFile": "random/r2_house_work/camera.vmd",
+    "expressionMotionFile": "random/r2_house_work/expression.vmd",
+    "audioPlayerFile": "random/r2_house_work/audio.wav"
+  },
+  {
+    "name": "Pink Cat - 1. Blowjob",
+    "group": "Random",
+    "modelMotionFile": "random/r2_pink_cat_motion_1_blow/main.vmd",
+    "partnerMotionFile": "random/r2_pink_cat_motion_1_blow/partner.vmd",
+    "camMotionFile": "random/r2_pink_cat_motion_1_blow/camera.vmd"
+  },
+  {
+    "name": "Pink Cat - 2. Doggy",
+    "group": "Random",
+    "modelMotionFile": "random/r2_pink_cat_motion_2_dogg/main.vmd",
+    "partnerMotionFile": "random/r2_pink_cat_motion_2_dogg/partner.vmd",
+    "camMotionFile": "random/r2_pink_cat_motion_2_dogg/camera.vmd"
+  },
+  {
+    "name": "Pink Cat - 3. Cowgirl",
+    "group": "Random",
+    "modelMotionFile": "random/r2_pink_cat_motion_3_cowg/main.vmd",
+    "partnerMotionFile": "random/r2_pink_cat_motion_3_cowg/partner.vmd",
+    "camMotionFile": "random/r2_pink_cat_motion_3_cowg/camera.vmd"
+  },
+  {
+    "name": "Hey Girl",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl/partner.vmd",
+    "camMotionFile": "random/r2_hey_girl/camera.vmd",
+    "audioPlayerFile": "random/r2_hey_girl/audio.wav"
+  },
+  {
+    "name": "Hey Girl - Taunt",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_1_taunt/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_1_taunt/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Choking",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_2_choking/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_2_choking/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Fingering",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_3_fingering/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_3_fingering/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Reverse Cowgirl",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_4_reverse_cow/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_4_reverse_cow/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Doggy",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_5_doggy/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_5_doggy/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Missionary",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_6_missionary/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_6_missionary/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Blowjob",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_7_blowjob/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_7_blowjob/partner.vmd"
+  },
+  {
+    "name": "Hey Girl - Cowgirl",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hey_girl_8_cowgirl/main.vmd",
+    "partnerMotionFile": "random/r2_hey_girl_8_cowgirl/partner.vmd"
+  },
+  {
+    "name": "Bounce2ME",
+    "group": "Random",
+    "modelMotionFile": "random/r2_bounce2me/main.vmd",
+    "camMotionFile": "random/r2_bounce2me/camera.vmd",
+    "audioPlayerFile": "random/r2_bounce2me/audio.wav"
+  },
+  {
+    "name": "Bounce2ME (Alt Motion)",
+    "group": "Random",
+    "modelMotionFile": "random/r2_bounce2me/main_2.vmd",
+    "camMotionFile": "random/r2_bounce2me/camera.vmd",
+    "audioPlayerFile": "random/r2_bounce2me/audio.wav"
+  },
+  {
+    "name": "tocatoca",
+    "group": "Random",
+    "modelMotionFile": "random/r2_captures/main.vmd",
+    "audioPlayerFile": "random/r2_captures/audio.wav"
+  },
+  {
+    "name": "EYE",
+    "group": "Random",
+    "modelMotionFile": "random/r2_eye/main.vmd",
+    "camMotionFile": "random/r2_eye/camera.vmd"
+  },
+  {
+    "name": "Hatsune Miku masturbating",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hatsune_miku_masturbat/main.vmd",
+    "camMotionFile": "random/r2_hatsune_miku_masturbat/camera.vmd"
+  },
+  {
+    "name": "Hula hoop",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hula_hoop_stuff/main.vmd",
+    "camMotionFile": "random/r2_hula_hoop_stuff/camera.vmd"
+  },
+  {
+    "name": "Jessi - Zoom",
+    "group": "Random",
+    "modelMotionFile": "random/r2_jessi_zoom/main.vmd",
+    "camMotionFile": "random/r2_jessi_zoom/camera.vmd"
+  },
+  {
+    "name": "Legends never die",
+    "group": "Random",
+    "modelMotionFile": "random/r2_legends_never_die/main.vmd",
+    "camMotionFile": "random/r2_legends_never_die/camera.vmd",
+    "expressionMotionFile": "random/r2_legends_never_die/expression.vmd"
+  },
+  {
+    "name": "MAFIA",
+    "group": "Random",
+    "modelMotionFile": "random/r2_mafia/main.vmd",
+    "camMotionFile": "random/r2_mafia/camera.vmd"
+  },
+  {
+    "name": "MMD pistol shooting",
+    "group": "Random",
+    "modelMotionFile": "random/r2_mmd_pistol_shooting_mo/main.vmd"
+  },
+  {
+    "name": "Nightmare",
+    "group": "Random",
+    "modelMotionFile": "random/r2_nightmare/main.vmd",
+    "camMotionFile": "random/r2_nightmare/camera.vmd",
+    "expressionMotionFile": "random/r2_nightmare/expression.vmd"
+  },
+  {
+    "name": "SeeU Arirang Raiku-P",
+    "group": "Random",
+    "modelMotionFile": "random/r2_seeu_arirang_raiku_p/main.vmd"
+  },
+  {
+    "name": "SelfAnalFisting",
+    "group": "Random",
+    "modelMotionFile": "random/r2_selfanalfisting_1/main.vmd",
+    "camMotionFile": "random/r2_selfanalfisting_1/camera.vmd"
+  },
+  {
+    "name": "Shadow Motion",
+    "group": "Random",
+    "modelMotionFile": "random/r2_shadow_motion_dance/main.vmd",
+    "camMotionFile": "random/r2_shadow_motion_dance/camera.vmd",
+    "audioPlayerFile": "random/r2_shadow_motion_dance/audio.wav"
+  },
+  {
+    "name": "Toxic",
+    "group": "Random",
+    "modelMotionFile": "random/r2_toxic_full/main.vmd",
+    "camMotionFile": "random/r2_toxic_full/camera.vmd"
+  },
+  {
+    "name": "VILLAIN",
+    "group": "Random",
+    "modelMotionFile": "random/r2_villain/main.vmd",
+    "camMotionFile": "random/r2_villain/camera.vmd"
+  },
+  {
+    "name": "anka dance 1",
+    "group": "Random",
+    "modelMotionFile": "random/r2_anka_dance/main.vmd",
+    "camMotionFile": "random/r2_anka_dance/camera.vmd",
+    "audioPlayerFile": "random/r2_anka_dance/audio.wav"
+  },
+  {
+    "name": "anka dance 2",
+    "group": "Random",
+    "modelMotionFile": "random/r2_anka_dance/main_2.vmd",
+    "camMotionFile": "random/r2_anka_dance/camera.vmd",
+    "audioPlayerFile": "random/r2_anka_dance/audio.wav"
+  },
+  {
+    "name": "newchan paizuri",
+    "group": "Random",
+    "modelMotionFile": "random/r2_/main.vmd"
+  },
+  {
+    "name": "New Thang",
+    "group": "Random",
+    "modelMotionFile": "random/r2_new_thang/main.vmd",
+    "audioPlayerFile": "random/r2_new_thang/audio.wav"
+  },
+  {
+    "name": "Worth it",
+    "group": "Random",
+    "modelMotionFile": "random/r2_worth_it/main.vmd",
+    "audioPlayerFile": "random/r2_worth_it/audio.wav"
+  },
+  {
+    "name": "ミセラー",
+    "group": "Random",
+    "modelMotionFile": "random/r2_motion_dl/main.vmd"
+  },
+  {
+    "name": "Bakushou",
+    "group": "Random",
+    "modelMotionFile": "random/r2_bakushou/main.vmd",
+    "camMotionFile": "random/r2_bakushou/camera.vmd"
+  },
+  {
+    "name": "BasicInstinct",
+    "group": "Random",
+    "modelMotionFile": "random/r2_basicinstinctmmd/main.vmd",
+    "camMotionFile": "random/r2_basicinstinctmmd/camera.vmd"
+  },
+  {
+    "name": "Hibikase - Prinz + Male K",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hibikase_show/main.vmd",
+    "partnerMotionFile": "random/r2_hibikase_show/partner.vmd",
+    "camMotionFile": "random/r2_hibikase_show/camera.vmd",
+    "audioPlayerFile": "random/r2_hibikase_show/audio.wav"
+  },
+  {
+    "name": "Hibikase - Kashima + Male P",
+    "group": "Random",
+    "modelMotionFile": "random/r2_hibikase_show/main_2.vmd",
+    "partnerMotionFile": "random/r2_hibikase_show/partner_2.vmd",
+    "camMotionFile": "random/r2_hibikase_show/camera.vmd",
+    "audioPlayerFile": "random/r2_hibikase_show/audio.wav"
+  },
+  {
+    "name": "エロフラ 1",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_1/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 1 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_1/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 1 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_1/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 1 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_1/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 1 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_1/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 1 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_1/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_2/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 2 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_2/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 2 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_2/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 2 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_2/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 2 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_2/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 2 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_2/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 3",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_3/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 3 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_3/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 3 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_3/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 3 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_3/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 3 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_3/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 3 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_3/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 4",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_4/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 4 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_4/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 4 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_4/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 5",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_5/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 5 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_5/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 5 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_5/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 5 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_5/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 5 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_5/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 5 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_5/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 6",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_6/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 6 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_6/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 6 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_6/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 6 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_6/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 6 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_6/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 6 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_6/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 7",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_7/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 7 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_7/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 7 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_7/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 7 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_7/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 7 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_7/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 7 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_7/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 8",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_8/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 8 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_8/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 8 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_8/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 8 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_8/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 8 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_8/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 8 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_8/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 9",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_9/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 9 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_9/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 9 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_9/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 9 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_9/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 9 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_9/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 9 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_9/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 10",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_10/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 10 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_10/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 10 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_10/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 10 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_10/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 10 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_10/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 10 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_10/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 11",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_11/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 11 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_11/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 11 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_11/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 11 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_11/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 11 内股用 絶頂",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_11/main_2_3_4_5.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 11 内股用 絶頂2",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_11/main_2_3_4_5_6.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 12 +",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_12/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 12",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_12/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 12 内股用 +",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_12/main_2_3.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 12 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_12/main_2_3_4.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 13",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_13/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 13 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_13/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 14",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_14/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 14 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_14/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 15",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_15/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 15 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_15/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 16",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_16/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 16 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_16/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 17",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_17/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 17 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_17/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 18",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_18/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 18 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_18/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 19",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_19/main.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  },
+  {
+    "name": "エロフラ 19 内股用",
+    "group": "Random",
+    "modelMotionFile": "random/r1_motion_19/main_2.vmd",
+    "audioPlayerFile": "random/r1_music/audio.wav"
+  }
+]
