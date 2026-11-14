@@ -10,13 +10,15 @@
     "name": "Final Rave",
     "group": "Random",
     "modelMotionFile": "random/r1_final_rave_motion/main.vmd",
-    "camMotionFile": "random/r1_final_rave_motion/camera.vmd"
+    "camMotionFile": "random/r1_final_rave_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/5ac23567f470a467.mp3"
   },
   {
     "name": "Lean On",
     "group": "Random",
     "modelMotionFile": "random/r1_lean_on_feat_motion/main.vmd",
-    "camMotionFile": "random/r1_lean_on_feat_motion/camera.vmd"
+    "camMotionFile": "random/r1_lean_on_feat_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/348e932d3e570b14.mp3"
   },
   {
     "name": "Psy Gentleman",
@@ -166,49 +168,57 @@
     "name": "Hey Girl - Taunt",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_1_taunt/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_1_taunt/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_1_taunt/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Choking",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_2_choking/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_2_choking/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_2_choking/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Fingering",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_3_fingering/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_3_fingering/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_3_fingering/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Reverse Cowgirl",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_4_reverse_cow/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_4_reverse_cow/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_4_reverse_cow/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Doggy",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_5_doggy/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_5_doggy/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_5_doggy/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Missionary",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_6_missionary/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_6_missionary/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_6_missionary/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Blowjob",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_7_blowjob/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_7_blowjob/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_7_blowjob/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Hey Girl - Cowgirl",
     "group": "Random",
     "modelMotionFile": "random/r2_hey_girl_8_cowgirl/main.vmd",
-    "partnerMotionFile": "random/r2_hey_girl_8_cowgirl/partner.vmd"
+    "partnerMotionFile": "random/r2_hey_girl_8_cowgirl/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fccf3cbb282c0825.mp3"
   },
   {
     "name": "Bounce2ME",
@@ -270,7 +280,8 @@
   {
     "name": "MMD pistol shooting",
     "group": "Random",
-    "modelMotionFile": "random/r2_mmd_pistol_shooting_mo/main.vmd"
+    "modelMotionFile": "random/r2_mmd_pistol_shooting_mo/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/e9a2d5ec03971b1e.mp3"
   },
   {
     "name": "Nightmare",
@@ -326,7 +337,8 @@
   {
     "name": "newchan paizuri",
     "group": "Random",
-    "modelMotionFile": "random/r2_/main.vmd"
+    "modelMotionFile": "random/r2_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/2f367454be1cb9d6.mp3"
   },
   {
     "name": "New Thang",
